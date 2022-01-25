@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container h5{
+    color:#fff ;
+}
+.container p{
+    color: #fff;
+}
+
+
+.business-fair ul{
+    list-style: none;
+}
+.business-fair p{
+    color: rgb(59, 52, 52);
+}
+
+.cheak{
+    color: rgb(19, 36, 49);
+    padding: 5px;
+}
