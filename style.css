@@ -8,12 +8,20 @@ body{
     color: #fff;
 }
 
-
+.notification{
+    right: 360px;
+}
 .business-fair ul{
     list-style: none;
 }
 .business-fair p{
-    color: rgb(59, 52, 52);
+    color: rgb(88, 84, 84);
+}
+.special-package{
+    color: #fff;
+}
+.special-package p{
+    color: #fff;
 }
 
 .cheak{
