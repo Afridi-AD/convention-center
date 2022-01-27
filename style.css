@@ -40,6 +40,13 @@ body{
 .choose-btn{
     background-color: rgb(187, 68, 47);
 }
+
+/*------
+-----food section ------ */
+.food-item p{
+    color: rgb(68, 81, 94);
+}
+
 /* -------footer section 
 --------- */
 .copyright{
@@ -47,4 +54,7 @@ body{
 }
 .footer{
     background-color: black;
+}
+.footer h4{
+    color: lightyellow;
 }
