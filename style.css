@@ -31,3 +31,9 @@ body{
 .choose-btn{
     background-color: rgb(187, 68, 47);
 }
+.copyright{
+    color: tomato;
+}
+.footer{
+    background-color: black;
+}
