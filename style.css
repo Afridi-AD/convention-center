@@ -1,3 +1,5 @@
+/* -----common css 
+------ */
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -8,9 +10,16 @@ body{
     color: ghostwhite;
 }
 
+/* -----toast section 
+-------- */
 .notification{
     right: 360px;
 }
+/* ------our package section
+ ------- */
+ .packges{
+     color: indianred;
+ }
 .business-fair ul{
     list-style: none;
 }
@@ -31,6 +40,8 @@ body{
 .choose-btn{
     background-color: rgb(187, 68, 47);
 }
+/* -------footer section 
+--------- */
 .copyright{
     color: tomato;
 }
